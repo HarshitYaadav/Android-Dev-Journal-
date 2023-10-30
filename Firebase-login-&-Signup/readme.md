@@ -32,6 +32,15 @@ Welcome to the **Firebase Login and Signup Activity** repository! This project d
 4. **Switch Between Screens:**
    - Click the "Login" text on the signup screen to switch to the login screen.
    - Click the "Signup" text on the login screen to switch to the signup screen.
+  
+     ### Screenshots
+
+     ![image](https://github.com/HarshitYaadav/Android-Dev-Journal-/assets/121128576/550d852e-f7c8-4551-86dd-fa751fa64d93)
+     ![image](https://github.com/HarshitYaadav/Android-Dev-Journal-/assets/121128576/b6f06261-07b4-426d-96ee-a1bd549ddf71)
+     ![image](https://github.com/HarshitYaadav/Android-Dev-Journal-/assets/121128576/403d8818-2412-4204-965d-ee182fb1401e)
+
+
+
 
 Feel free to explore the code, understand the Firebase integration, and use this project as a foundation for implementing user authentication features in your own Android apps!
 
